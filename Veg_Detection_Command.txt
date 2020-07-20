@@ -1,0 +1,24 @@
+Process Dir:
+D:\Duke_2020\CW\TEST2
+BAK_PATH:
+D:\Duke_2020\CW\TEST2\bak
+BAK_FILE:
+23007_230kv_qsi2020_detections
+FINAL_LAS_PATH:
+D:\Duke_2020\MW\ANSON\34526\las
+FINAL_LAS_FILE:
+34526_FINAL_LAS_INSP_W_RHWM_200504
+
+Command:
+python C:\SCRIPTS\DETECTION_STEP_1_V3.py
+path to PRJ_CREATOR:
+C:\SCRIPTS
+RESOURCES:
+I:\01_PROJECTS\Duke_Energy_2020_036650\00_RESOURCES\PLS_CADD\03_detections
+LMP:
+duke_2020_final_las.lmp
+FEA:
+duke_2020_processing.fea
+BLOWOUT_FEA:
+duke_2020_processing_blowout.fea
+END OF INFO
